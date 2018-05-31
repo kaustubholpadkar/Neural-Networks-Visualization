@@ -13,3 +13,6 @@ User can insert the data-points on canvas as well as change the class of the dat
 <br>
 <br>
 **sketch.js** contains the core logic for the simulation.
+<br>
+<br>
+[gif](nn.gif)
